@@ -1,0 +1,12 @@
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+diansai\port.o: D:\Keil_stm32\ARM\ARMCC\Bin\..\include\stddef.h
+diansai\port.o: D:\Keil_stm32\ARM\ARMCC\Bin\..\include\stdint.h
+diansai\port.o: ../Core/Inc/FreeRTOSConfig.h
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+diansai\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
